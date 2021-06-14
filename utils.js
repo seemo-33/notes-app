@@ -1,6 +1,6 @@
 console.log('utils.js')
 
-const name = 'Simu'
+const name = 'Simran'
 
 const add = function (a, b) {
     return a + b
